@@ -1,3 +1,3 @@
 # BCAI_coding_round
 
-Question for BCAI coding round
+Programming Question for BCAI Senior Data Scientist
